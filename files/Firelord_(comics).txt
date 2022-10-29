@@ -1,0 +1,5 @@
+#REDIRECT [[Firelord (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

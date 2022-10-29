@@ -1,0 +1,5 @@
+#REDIRECT [[Bengal (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}

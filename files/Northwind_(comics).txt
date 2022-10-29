@@ -1,0 +1,5 @@
+#REDIRECT [[Northwind (character)]]
+
+{{Redirect category shell|
+{{R from move}}
+}}
